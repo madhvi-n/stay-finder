@@ -46,5 +46,5 @@ tokenize_rt==6.1.0
 tomli==2.2.1
 typing_extensions==4.12.2
 uritemplate==4.1.1
-urllib3==2.3.0
+urllib3==2.5.0
 virtualenv==20.29.2
